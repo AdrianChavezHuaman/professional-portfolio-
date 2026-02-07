@@ -21,9 +21,4 @@ Detailed records of micro-certifications and daily learning progress are maintai
 ➡️ [Learning Record & Micro-Certifications Archive](https://github.com/AdrianChavezHuaman/learning-record)
 
 
-➡️ **Learning Record & Micro-Certifications Archive**  
-(Linked repository – see below)
-
----
-
 *This portfolio is intentionally curated to highlight key milestones. Detailed logs and micro-achievements are tracked separately.*
