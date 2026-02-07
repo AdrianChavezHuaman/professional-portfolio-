@@ -18,6 +18,9 @@ This repository serves as a high-level professional portfolio documenting my lea
 ## Learning Records
 Detailed records of micro-certifications and daily learning progress are maintained in a dedicated repository:
 
+➡️ [Learning Record & Micro-Certifications Archive](https://github.com/AdrianChavezHuaman/learning-record)
+
+
 ➡️ **Learning Record & Micro-Certifications Archive**  
 (Linked repository – see below)
 
