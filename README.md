@@ -16,20 +16,6 @@ This repository serves as a high-level professional portfolio documenting my lea
 - **Google Cybersecurity Professional Certificate** – Completed  
 🔗 View on LinkedIn
 
-#### TryHackMe
-- **Pre Security** – Completed  
-- **Cyber Security 101** – Completed  
-- **SOC Level 1** – Completed  
-- **SOC Level 2** – Completed  
-- **Advanced Endpoint Investigations** – Completed  
-🔗 View on LinkedIn
-
-#### Fortinet Training
-- **Fortinet NSE 1** – Completed (Entry-level Network Security)  
-- **Fortinet NSE 2** – Completed (Network Security Associate)  
-- **Fortinet NSE 3** – Completed (Advanced Security Operations)  
-🔗 View on LinkedIn
-
 ---
 
 ### 2027 Certifications (Planned / In Progress)
@@ -42,14 +28,12 @@ This repository serves as a high-level professional portfolio documenting my lea
 - **Security+** – Planned  
 🔗 View on LinkedIn
 
-> Only certifications with substantial scope and professional relevance are included here. Minor micro-certifications are documented in a separate personal repository.
-
 ---
 
 ### 2028 Certifications (Planned)
 
 #### CompTIA
-- **CySA+ (Cybersecurity Analyst)** – Planned  
+- **CySA+** – Planned  
 🔗 View on LinkedIn
 
 #### University
@@ -64,10 +48,11 @@ This repository serves as a high-level professional portfolio documenting my lea
 
 ## Learning Records
 
-For a detailed history of certifications and learning milestones (including micro-certifications), see the dedicated repository:
+For a detailed history of certifications, trainings, and micro-certifications (including TryHackMe subscription labs, Coursera short modules, and Fortinet NSE free trainings), see the dedicated repository:
 
 ➡️ [Learning Record & Micro-Certifications Archive](https://github.com/AdrianChavezHuaman/learning-record)
 
 ---
 
 *This portfolio is curated to highlight key professional achievements. Supporting evidence and future certifications will be added progressively.*
+
