@@ -19,7 +19,7 @@ This repository serves as a high-level professional portfolio documenting my lea
 - **Cyber Security 101** – Planned  
 - **SOC Level 1** – Planned  
 - **SOC Level 2** – Planned
-- - **Advanced Endpoint Investigations** – Planned  
+- **Advanced Endpoint Investigations** – Planned  
 🔗 View on LinkedIn
 
 ### Fortinet Training
