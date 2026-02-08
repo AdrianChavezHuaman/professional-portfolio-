@@ -5,20 +5,30 @@ This repository serves as a high-level professional portfolio documenting my lea
 ## Focus Areas
 - Cybersecurity fundamentals and blue team practices
 - SOC Analyst learning path
-- Continuous education through recognized platforms
-- Practical and theoretical skill development
+- Continuous professional development
+- Practical and theoretical skill building
 
-## Certification Archives
-- Coursera (professional-level certifications)
-- TryHackMe (structured learning paths)
-- Fortinet Training
+## Certification Highlights
 
-> Micro-certifications and small learning milestones are documented separately to keep this portfolio concise and focused.
+### Coursera
+- Major professional certifications  
+🔗 View on LinkedIn: https://www.linkedin.com/in/TUUSUARIO  
+
+### TryHackMe
+- Significant learning paths and structured programs  
+🔗 View on LinkedIn: https://www.linkedin.com/in/TUUSUARIO  
+
+### Fortinet Training
+- Official Fortinet certifications  
+🔗 View on LinkedIn: https://www.linkedin.com/in/TUUSUARIO  
+
+> Only certifications with substantial scope and professional relevance are included here. Minor micro-certifications are documented in a separate personal repository.
 
 ## Learning Records
-Detailed records of micro-certifications and daily learning progress are maintained in a dedicated repository:
+For a detailed history of certifications and learning milestones (including micro-certifications), see the dedicated repository:  
 
 ➡️ [Learning Record & Micro-Certifications Archive](https://github.com/AdrianChavezHuaman/learning-record)
 
+---
 
-*This portfolio is intentionally curated to highlight key milestones. Detailed logs and micro-achievements are tracked separately.*
+*This portfolio is curated to highlight key professional achievements. Supporting evidence and future certifications will be added progressively.*
