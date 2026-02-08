@@ -48,10 +48,6 @@ This repository serves as a high-level professional portfolio documenting my lea
 
 ### 2028 Certifications (Planned)
 
-#### TryHackMe
-- **SOC Level 1 – Paid / Advanced** – Planned  
-🔗 View on LinkedIn
-
 #### CompTIA
 - **CySA+ (Cybersecurity Analyst)** – Planned  
 🔗 View on LinkedIn
